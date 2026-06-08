@@ -63,7 +63,7 @@ Microsoft Forms → Power Automate → Google Sheets → Looker Studio
 
 ![Dashboard Preview](Dashboard.png)
 
-> 🔗 **[View Live Looker Studio Dashboard](your-looker-studio-link-here)**
+> 🔗 **[View Live Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/34216d1e-ea3a-4e9e-b8d5-c6bb930841c5/page/kwuvF)**
 
 ---
 
