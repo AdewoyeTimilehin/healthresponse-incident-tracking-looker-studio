@@ -1,5 +1,7 @@
 # 🚑 Real-Time Incident Tracking and Outcome Reporting
 
+![Project Banner](healthd.jpg)
+
 ## 🏢 Company Overview
 
 **HealthResponse Ltd** was founded in 2010 in the United Kingdom with a mission to provide fast, reliable, and efficient emergency response services. From a small local provider, HealthResponse has grown into a key player in the emergency services industry, delivering 24/7 emergency response, patient transportation, and health support services across multiple cities in the UK.
