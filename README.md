@@ -98,8 +98,7 @@ Microsoft Forms → Power Automate → Google Sheets → Looker Studio
 healthresponse-incident-tracking/
 │
 ├── README.md
-├── Dashboard.png                  ← Looker Studio dashboard screenshot
-└── data/                          ← Sample/anonymised incident datasets
+└── Dashboard.png                  ← Looker Studio dashboard screenshot
 ```
 
 ---
