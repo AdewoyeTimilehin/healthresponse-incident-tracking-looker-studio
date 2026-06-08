@@ -61,26 +61,34 @@ Microsoft Forms → Power Automate → Google Sheets → Looker Studio
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dh1.png)
+![Dashboard Preview](dh2.png)
+![Dashboard Preview](dh3.png)
 
 > 🔗 **[View Live Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/34216d1e-ea3a-4e9e-b8d5-c6bb930841c5/page/kwuvF)**
+> 🔗 **[View Live Dataset](https://docs.google.com/spreadsheets/d/1i7x2dYevjV9jzYMmPcQSt04LM3xeLSJM/edit?rtpof=true)**
+
 
 ---
 
 ## 💡 Key Findings & Recommendations
-
-> *(Update this section with your actual findings after analysis)*
-
-- **Average response time across incidents:** ...
-- **Most common incident types:** ...
-- **Patient outcome trends:** ...
-- **Peak incident periods identified:** ...
+- **Total Incidents: 3,000 incidents recorded, with 607 classified as critical and an escalation rate of 36.43%** 
+- **Average Response Time: 37.83 minutes across all dispatchers, with K. Brown having the highest at 39.43 minutes and A. Morgan the lowest at 35.34 minutes** 
+- **Incident Trends: Incident volume remained relatively stable between 250–300 monthly, with a noticeable dip in November before rising again in December** 
+- **Priority Breakdown: High priority incidents led at 1,085, followed by Medium (996), Critical (607), and Low (312)**
+- **Top Incident Types: Mental Health Crisis (595) and Panic Attack (503) were the most frequent, together accounting for over 36% of all incidents**
+- **Geographic Hotspots: Bristol (211) and Nottingham (200) recorded the highest incident counts, with Greater London collectively representing a significant share across Croydon, London, Bromley, and Enfield**
+- **Patient Conditions: The majority of patients arrived in a Distressed state (1,340), followed by Critical (825), Stable (593), and Unresponsive (242)**
+- **Most Used Intervention: On-site Assessment was the most common intervention, followed by Emergency Transport and De-escalation Support**
 
 ### Recommendations
-1. Use real-time dashboard alerts to flag incidents exceeding target response times
-2. Leverage trend data to pre-position resources during peak periods
-3. Automate weekly performance reports for management review
-4. Expand data collection fields in Microsoft Forms to capture richer patient outcome data
+1. Target High-Incident Cities — Deploy additional resources to Bristol, Nottingham, and Greater London where incident volumes are consistently highest
+2. Reduce Response Times — Investigate why K. Brown, M. Evans, and L. Carter have above-average response times and provide targeted training or workload rebalancing
+3. Mental Health Focus — With Mental Health Crisis and Panic Attacks making up over a third of all incidents, invest in specialized mental health responders and de-escalation training
+4. Address the November Dip — Investigate the drop in incidents in November — this could reflect underreporting, staffing gaps, or data collection issues
+5. Critical Incident Preparedness — With 607 critical incidents and 242 unresponsive patients, ensure rapid response protocols are consistently reviewed and updated
+6. Follow-Up Process — Since Follow-Up Required is the most common outcome, establish a structured follow-up workflow to ensure no patient falls through the cracks
+7. Expand Virtual Support — Virtual Support accounts for only 15.9% of response modes; expanding this could reduce pressure on field teams for lower-priority incidents
 
 ---
 
